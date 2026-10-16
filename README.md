@@ -18,6 +18,10 @@ Un overlay complet, prêt à l'emploi, à coller directement dans OBS.
 
 ---
 
+## SCREENSHOTS
+
+<img width="1630" height="836" alt="Screenshot 2026-10-17 at 01-49-45 Aero Overlay — gleaphe313 (1920×1080)" src="https://github.com/user-attachments/assets/dc001241-dfbf-477f-a8f1-ff2df9181233" />
+
 ## ✨ Fonctionnalités
 
 | | Fonctionnalité | Description |
